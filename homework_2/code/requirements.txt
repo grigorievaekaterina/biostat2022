@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy.stats
+statsmodels.stats.weightstats
+statsmodels.stats.multitest
+argparse
